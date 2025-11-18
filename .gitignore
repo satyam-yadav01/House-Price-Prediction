@@ -1,0 +1,81 @@
+# ---------------------------
+
+# Python Cache Files
+
+# ---------------------------
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# ---------------------------
+
+# Virtual Environment
+
+# ---------------------------
+
+venv/
+env/
+.venv/
+
+# ---------------------------
+
+# Streamlit Cache & Config
+
+# ---------------------------
+
+.streamlit/
+
+# ---------------------------
+
+# Model / Artifact Files
+
+# (uncomment if you don't want to upload model files)
+
+# *.pkl
+
+# *.joblib
+
+# ---------------------------
+
+# OS Generated Files
+
+# ---------------------------
+
+Thumbs.db
+.DS_Store
+
+# ---------------------------
+
+# Jupyter Notebook
+
+# ---------------------------
+
+.ipynb_checkpoints/
+
+# ---------------------------
+
+# VS Code Folder
+
+# ---------------------------
+
+.vscode/
+
+# ---------------------------
+
+# Log Files
+
+# ---------------------------
+
+*.log
+
+# ---------------------------
+
+# Build / Distribution
+
+# ---------------------------
+
+build/
+dist/
+*.egg-info/
